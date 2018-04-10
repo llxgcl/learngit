@@ -7,3 +7,4 @@ Create a new branch is quick is quick & simple.
 =======
 Create a new branch is quick is quick AND simple.
 >>>>>>> featurel
+add merge
